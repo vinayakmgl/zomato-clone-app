@@ -30,6 +30,6 @@ const getCorrectScreen = (tab) => {
             return <Delivery />
 
     }
-}
+};
 
 export default Homepage;
